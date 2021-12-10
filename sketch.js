@@ -1,6 +1,6 @@
 // variabili globali
 // colori
-var red, green, blue, yellow, w;
+var red, green, blue, yellow;
 // posizione
 var x, y;
 
